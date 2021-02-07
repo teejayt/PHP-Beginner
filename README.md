@@ -14,7 +14,7 @@ Further Reading<hr/>
 
 <h2>What are 6 constraints?</h2>
 <ul>
-  <li>[Uniform Interface](Constraints/Uniform_Interface.md)</li>
+  <li>[a relative link](Constraints/Uniform_Interface.md)</li>
   <li>Stateless</li>
   <li>Cacheable</li>
   <li>Client-Server</li>
