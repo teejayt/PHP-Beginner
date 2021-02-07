@@ -28,4 +28,5 @@ Useful information on building and consuming REST Services
 <h2>Further Reading</h2><br/>
 <a href ="https://www.youtube.com/watch?v=llpr5924N7E"> Introduction to REST </a><br>
 <a href ="https://github.com/RestCheatSheet/api-cheat-sheet/wiki"> API CheatSheets </a>
-<a href="https://restful-api-design.readthedocs.io/en/latest/resources.html#:~:text=The%20fundamental%20concept%20in%20any,methods%20that%20operate%20on%20it.&text=Resources%20can%20also%20exist%20outside,these%20resources%20as%20singleton%20resources."> Resource in REST </a>
+<a href="https://restful-api-design.readthedocs.io/en/latest/resources.html#:~:text=The%20fundamental%20concept%20in%20any,methods%20that%20operate%20on%20it.&text=Resources%20can%20also%20exist%20outside,these%20resources%20as%20singleton%20resources."> Resource in REST </a><br>
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
